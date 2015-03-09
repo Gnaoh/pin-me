@@ -1,6 +1,5 @@
-#One Month Rails
+#Project Alpha
 
-This is the pinterest sample application for
-[*One Month rails*](http://onemonthrails.com)
+Dipping my toes into the world known to only machine, codes, and ideas. 
 
-by [Peter Hoang](www.phongh.com)
+By Peter Hoang [Email] (phonghoang@gmail.com)
