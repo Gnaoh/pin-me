@@ -20,3 +20,9 @@ $jumbotron-bg:                           																	   white;
      font-weight: bold;
 }
 
+ .radio input[type="radio"], 
+ .radio-inline input[type="radio"],
+ .checkbox input[type="checkbox"],
+ .checkbox-inline input[type="checkbox"] {
+      margin-left: 0;
+  }
