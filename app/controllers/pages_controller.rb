@@ -1,5 +1,5 @@
 class PagesController < ApplicationController
-  def home
+  def homee
   end
 
   def about
