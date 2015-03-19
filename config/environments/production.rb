@@ -79,7 +79,7 @@ Rails.application.configure do
 
   #Required for Haroku
   #Note to set this to your actual host
-  config.action_mailer.default_url_options = { host: 'https://techme1.herokuapp.com/' }
+  config.action_mailer.default_url_options = { host: 'https://pin-me.herokuapp.com/' }
 
   #Sets paperclip to upload images to Amazon S3
   config.paperclip_defaults = {
