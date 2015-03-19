@@ -1,4 +1,5 @@
-<nav class="navbar navbar-default navbar-fixed-top">
+<% if user_signed_in? %>
+<nav class="navbar navbar-static-top navbar-default" role="navigation">
   <div class="container">
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
@@ -32,3 +33,4 @@
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container -->
 </nav>
+<%end%>
